@@ -1,0 +1,19 @@
+{
+  "updated_at": "2026-09-19 00:21:41",
+  "version": "2.0",
+  "total_licenses": 1,
+  "licenses": {
+    "TRD-BBD6-2124-C849": {
+      "org": "Trade International",
+      "owner": "",
+      "phone": "017456740185",
+      "plan": "TRIAL_15",
+      "status": "ACTIVE",
+      "revoked": false,
+      "issued_at": "2026-09-18",
+      "expires_at": "2026-10-03",
+      "message": ""
+    }
+  },
+  "signature": "5E517E4FD2FCAA7CF18512F1294D09F62BBF15245E87E3B116D4B5A97A1462A2"
+}
