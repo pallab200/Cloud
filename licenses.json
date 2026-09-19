@@ -1,19 +1,8 @@
 {
-  "updated_at": "2026-09-19 18:42:21",
+  "updated_at": "2026-09-19 18:42:29",
   "version": "2.0",
-  "total_licenses": 3,
+  "total_licenses": 2,
   "licenses": {
-    "TRD-B79D-95CE-3D5B": {
-      "org": "New Dreams",
-      "owner": "Tanzil Ahmed",
-      "phone": "01719989029",
-      "plan": "1_MONTH",
-      "status": "REVOKED",
-      "revoked": true,
-      "issued_at": "2026-09-19",
-      "expires_at": "2026-10-19",
-      "message": "এই লাইসেন্সটি কেন্দ্রীয়ভাবে স্থগিত/বাতিল করা হয়েছে (License remotely suspended by vendor)."
-    },
     "TRD-3AD3-D113-F4F8": {
       "org": "Trade International",
       "owner": "",
@@ -37,5 +26,5 @@
       "message": "এই লাইসেন্সটি কেন্দ্রীয়ভাবে স্থগিত/বাতিল করা হয়েছে (License remotely suspended by vendor)."
     }
   },
-  "signature": "B38EC48CAD2DD8ECD5464968E88A169811F687241D9D54C26B51667E227FBBBD"
+  "signature": "9956C5CC5B81BBB9D412A3251996898F9129CBC0780374842F41F9A3B7515A5D"
 }
