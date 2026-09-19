@@ -1,19 +1,8 @@
 {
-  "updated_at": "2026-09-19 20:28:06",
+  "updated_at": "2026-09-19 20:28:21",
   "version": "2.0",
-  "total_licenses": 2,
+  "total_licenses": 1,
   "licenses": {
-    "TRD-C721-9024-3EE9": {
-      "org": "Naw Dreams",
-      "owner": "Tanzil Ahmed",
-      "phone": "01719989029",
-      "plan": "TRIAL_15",
-      "status": "REVOKED",
-      "revoked": true,
-      "issued_at": "2026-09-19",
-      "expires_at": "2026-10-04",
-      "message": "এই লাইসেন্সটি কেন্দ্রীয়ভাবে স্থগিত/বাতিল করা হয়েছে (License remotely suspended by vendor)."
-    },
     "TRD-3AD3-D113-F4F8": {
       "org": "Trade International",
       "owner": "",
@@ -26,5 +15,5 @@
       "message": ""
     }
   },
-  "signature": "67B755846D60511E2DFDB9DEFC94272E24E091A11FFB1CFA7242A1733AFA5303"
+  "signature": "ED0D10B133D5A78226FD3F2127428C3DBFB2AE53A020F09B1314E9508C5C1023"
 }
