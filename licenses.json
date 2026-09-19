@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-09-19 22:33:40",
+  "updated_at": "2026-09-19 22:39:19",
   "version": "2.0",
   "total_licenses": 2,
   "licenses": {
     "TRD-C721-9024-3EE9": {
       "org": "New Dreams",
-      "owner": "Tanzil Ahmed",
+      "owner": "",
       "phone": "01719989029",
-      "plan": "2_YEARS",
+      "plan": "1_MONTH",
       "status": "ACTIVE",
       "revoked": false,
       "issued_at": "2026-09-19",
-      "expires_at": "2028-09-18",
+      "expires_at": "2026-10-19",
       "message": ""
     },
     "TRD-3AD3-D113-F4F8": {
@@ -26,5 +26,5 @@
       "message": ""
     }
   },
-  "signature": "1FB4DEE19BEB95202B8EBD7649032699EBA7F863BCD5F124D339146E4A9FB4AC"
+  "signature": "A207901515403868F32FC7D046E0263A39D314F60A6A478166597FB11416C29F"
 }
