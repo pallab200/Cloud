@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19 18:31:28",
+  "updated_at": "2026-09-19 18:42:02",
   "version": "2.0",
   "total_licenses": 3,
   "licenses": {
@@ -19,11 +19,11 @@
       "owner": "",
       "phone": "017456740185",
       "plan": "TRIAL_15",
-      "status": "ACTIVE",
-      "revoked": false,
+      "status": "REVOKED",
+      "revoked": true,
       "issued_at": "2026-09-18",
       "expires_at": "2026-10-03",
-      "message": "Local PC Installation"
+      "message": "এই লাইসেন্সটি কেন্দ্রীয়ভাবে স্থগিত/বাতিল করা হয়েছে (License remotely suspended by vendor)."
     },
     "TRD-BBD6-2124-C849": {
       "org": "Trade International",
@@ -37,5 +37,5 @@
       "message": ""
     }
   },
-  "signature": "C73B2D4B9B765B63F2BC235293ACC588C6A886CE12B1CBB8B6A8B1F5B661F8AC"
+  "signature": "6969B48C5E221C9C87E36C9482A2A2D10A9F01B1767D739528607E11F77DAA02"
 }
