@@ -1,8 +1,19 @@
 {
-  "updated_at": "2026-09-19 18:42:57",
+  "updated_at": "2026-09-19 20:25:03",
   "version": "2.0",
-  "total_licenses": 1,
+  "total_licenses": 2,
   "licenses": {
+    "TRD-C721-9024-3EE9": {
+      "org": "Naw Dreams",
+      "owner": "Tanzil Ahmed",
+      "phone": "01719989029",
+      "plan": "TRIAL_15",
+      "status": "ACTIVE",
+      "revoked": false,
+      "issued_at": "2026-09-19",
+      "expires_at": "2026-10-04",
+      "message": ""
+    },
     "TRD-3AD3-D113-F4F8": {
       "org": "Trade International",
       "owner": "",
@@ -15,5 +26,5 @@
       "message": ""
     }
   },
-  "signature": "4C94F405530E662726243138AB352ADEE25117378B27A025BA0DE4977AC684EC"
+  "signature": "EBEEE05BE5D12967F067353708F18E4AFE2188D41C1F2582C5BF324F33326E18"
 }
