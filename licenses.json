@@ -1,19 +1,7 @@
 {
-  "updated_at": "2026-09-19 18:42:35",
+  "updated_at": "2026-09-19 18:42:42",
   "version": "2.0",
-  "total_licenses": 1,
-  "licenses": {
-    "TRD-BBD6-2124-C849": {
-      "org": "Trade International",
-      "owner": "",
-      "phone": "017456740185",
-      "plan": "TRIAL_15",
-      "status": "REVOKED",
-      "revoked": true,
-      "issued_at": "2026-09-18",
-      "expires_at": "2026-10-03",
-      "message": "এই লাইসেন্সটি কেন্দ্রীয়ভাবে স্থগিত/বাতিল করা হয়েছে (License remotely suspended by vendor)."
-    }
-  },
-  "signature": "DBB787CA3B3B86667847D79F496FE17493D6ABEDF8474B947D8FDDBE9295CAA7"
+  "total_licenses": 0,
+  "licenses": {},
+  "signature": "7F5CFD59B03F2DC89D6468C695FF18FA300ABB1271F7CBA7D39C5006D4D36E3F"
 }
