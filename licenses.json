@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19 20:25:03",
+  "updated_at": "2026-09-19 20:28:06",
   "version": "2.0",
   "total_licenses": 2,
   "licenses": {
@@ -8,11 +8,11 @@
       "owner": "Tanzil Ahmed",
       "phone": "01719989029",
       "plan": "TRIAL_15",
-      "status": "ACTIVE",
-      "revoked": false,
+      "status": "REVOKED",
+      "revoked": true,
       "issued_at": "2026-09-19",
       "expires_at": "2026-10-04",
-      "message": ""
+      "message": "এই লাইসেন্সটি কেন্দ্রীয়ভাবে স্থগিত/বাতিল করা হয়েছে (License remotely suspended by vendor)."
     },
     "TRD-3AD3-D113-F4F8": {
       "org": "Trade International",
@@ -26,5 +26,5 @@
       "message": ""
     }
   },
-  "signature": "EBEEE05BE5D12967F067353708F18E4AFE2188D41C1F2582C5BF324F33326E18"
+  "signature": "67B755846D60511E2DFDB9DEFC94272E24E091A11FFB1CFA7242A1733AFA5303"
 }
