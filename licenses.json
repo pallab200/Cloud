@@ -1,19 +1,8 @@
 {
-  "updated_at": "2026-09-19 18:25:32",
+  "updated_at": "2026-09-19 18:25:43",
   "version": "2.0",
-  "total_licenses": 3,
+  "total_licenses": 2,
   "licenses": {
-    "TRD-97F4-F861-0761": {
-      "org": "New Dreams",
-      "owner": "",
-      "phone": "01719989029",
-      "plan": "1_MONTH",
-      "status": "REVOKED",
-      "revoked": true,
-      "issued_at": "2026-09-19",
-      "expires_at": "2026-10-19",
-      "message": "এই লাইসেন্সটি কেন্দ্রীয়ভাবে স্থগিত/বাতিল করা হয়েছে (License remotely suspended by vendor)."
-    },
     "TRD-3AD3-D113-F4F8": {
       "org": "Trade International",
       "owner": "",
@@ -37,5 +26,5 @@
       "message": ""
     }
   },
-  "signature": "7FFC213165E3D893E4B790030F653D29878CC23FE441A4EA866949D218FB5EE4"
+  "signature": "F126B827067EFB1BC8649C7F4FDB438D8E14A2EC676A26196B5A314E29323F01"
 }
