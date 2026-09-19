@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19 22:41:30",
+  "updated_at": "2026-09-19 22:54:35",
   "version": "2.0",
   "total_licenses": 2,
   "licenses": {
@@ -7,11 +7,11 @@
       "org": "New Dreams",
       "owner": "",
       "phone": "01719989029",
-      "plan": "1_MONTH",
+      "plan": "2_YEARS",
       "status": "ACTIVE",
       "revoked": false,
       "issued_at": "2026-09-19",
-      "expires_at": "2026-10-19",
+      "expires_at": "2028-09-18",
       "message": ""
     },
     "TRD-3AD3-D113-F4F8": {
@@ -26,5 +26,5 @@
       "message": ""
     }
   },
-  "signature": "03D8F04ECF81979815A267FD9CB023E276CE9095A5982CF7878958755CFA2775"
+  "signature": "D550DA20EA8383CCFB13CAD48CDD2E7DE77A7B627B421F4DC27F54D302127333"
 }
