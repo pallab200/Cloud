@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21 01:18:19",
+  "updated_at": "2026-11-21 01:23:45",
   "version": "2.0",
   "total_licenses": 1,
   "licenses": {
@@ -15,5 +15,5 @@
       "message": "Main POS Terminal"
     }
   },
-  "signature": "A98DCD150116181904BBE708B458F67349F201F05078377B76EFA0D17FF143F5"
+  "signature": "E17DC4FAA950BF56AFF438075178DB4B2EB7C3444F54E130492D8856D754CF60"
 }
