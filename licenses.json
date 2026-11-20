@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21 01:23:45",
+  "updated_at": "2026-11-21 01:49:33",
   "version": "2.0",
   "total_licenses": 1,
   "licenses": {
@@ -10,10 +10,10 @@
       "plan": "1_MONTH",
       "status": "ACTIVE",
       "revoked": false,
-      "issued_at": "2026-09-19",
-      "expires_at": "2026-10-19",
+      "issued_at": "2026-11-21",
+      "expires_at": "2026-12-21",
       "message": "Main POS Terminal"
     }
   },
-  "signature": "E17DC4FAA950BF56AFF438075178DB4B2EB7C3444F54E130492D8856D754CF60"
+  "signature": "EA6613ADC1CA977495F9CC88DCFB3167A1571FE489BE0D589E3A180DF9DE70D7"
 }
