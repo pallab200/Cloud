@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19 22:54:35",
+  "updated_at": "2026-11-20 22:02:31",
   "version": "2.0",
   "total_licenses": 2,
   "licenses": {
@@ -21,10 +21,10 @@
       "plan": "1_MONTH",
       "status": "ACTIVE",
       "revoked": false,
-      "issued_at": "2026-09-19",
-      "expires_at": "2026-10-19",
+      "issued_at": "2026-11-20",
+      "expires_at": "2026-12-20",
       "message": ""
     }
   },
-  "signature": "D550DA20EA8383CCFB13CAD48CDD2E7DE77A7B627B421F4DC27F54D302127333"
+  "signature": "6FCF250364C0B529AB587C4356D72E193F1E9F1E06C8DE79A01ADDC313BE4960"
 }
