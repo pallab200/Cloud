@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22 01:27:23",
+  "updated_at": "2026-11-22 01:27:54",
   "version": "2.0",
   "total_licenses": 1,
   "licenses": {
@@ -15,5 +15,5 @@
       "message": "এই লাইসেন্সটি কেন্দ্রীয়ভাবে স্থগিত/বাতিল করা হয়েছে (License remotely suspended by vendor)."
     }
   },
-  "signature": "5BCE98EB043D4E60E1CD0895CB94E81C3BA8E04F0257030A23AB06046D8B64A6"
+  "signature": "F0EFFEB8ECA39F9A0507622754FB292D8D9ECBECF2E3EEA0AE1ACC403B7A1EEF"
 }
