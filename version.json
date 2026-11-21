@@ -2,8 +2,8 @@
   "version": "2.1.0",
   "release_name": "NexTrade v2.1.0 Pro Release",
   "release_notes": "১. নতুন প্রিন্ট ভাউচার ডিজাইন যুক্ত করা হয়েছে\n২. সুপারফাস্ট ইনভেন্টরি সার্চ অপটিমাইজেশন\n৩. গুরুত্বপূর্ণ সিকিউরিটি ও পারফরম্যান্স আপডেট",
-  "published_at": "2026-11-21T00:00:00Z",
+  "published_at": "2026-11-22T02:10:00Z",
   "download_url": "https://github.com/pallab200/Cloud/releases/download/v2.1.0/NexTrade.exe",
   "asset_name": "NexTrade.exe",
-  "asset_size": 96468992
+  "asset_size": 96547933
 }
