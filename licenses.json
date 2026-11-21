@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22 01:28:33",
+  "updated_at": "2026-11-22 01:43:12",
   "version": "2.0",
   "total_licenses": 1,
   "licenses": {
@@ -10,10 +10,11 @@
       "plan": "1_MONTH",
       "status": "ACTIVE",
       "revoked": false,
-      "issued_at": "2026-11-21",
-      "expires_at": "2026-12-21",
+      "issued_at": "2026-11-22",
+      "expires_at": "2026-12-22",
+      "key": "TRDLIC-V2-eyJrZXlfaWQiOiJUUkQtS0VZLUVCQTVCNUNCIiwib3JnIjoiVHJhZGUgSW50ZXJuYXRpb25hbCIsIm93bmVyIjoiQWRtaW4iLCJwaG9uZSI6IjAxNzQ1Njc0MDE4NSIsImh3aWQiOiJUUkQtM0FEMy1EMTEzLUY0RjgiLCJwbGFuIjoiMV9NT05USCIsImlzc3VlZF9hdCI6IjIwMjYtMTEtMjIgMDE6NDM6MTIiLCJleHBpcmVzX2F0IjoiMjAyNi0xMi0yMiAyMzo1OTo1OSIsImZlYXR1cmVzIjpbIkFMTF9NT0RVTEVTIiwiUE9TIiwiSU5WRU5UT1JZIiwiVk9VQ0hFUlMiLCJBQ0NPVU5UUyIsIlJFUE9SVFMiXSwidmVyc2lvbiI6IjIuMCJ9.E4AAF2F6D02F11723DAF0D6908C1BB12E6A999128A801F11D384712EAF4DF62B",
       "message": "এই লাইসেন্সটি কেন্দ্রীয়ভাবে স্থগিত/বাতিল করা হয়েছে (License remotely suspended by vendor)."
     }
   },
-  "signature": "4D4E23FA0B5DB2A3C0C94CAD24329E0E9F825C0074B0993E3F2B914DCBFB1963"
+  "signature": "05F28D174211412FCECC845F888397DC8AE700A2E722FA5E51CD90F215368E9E"
 }
