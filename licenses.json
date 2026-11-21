@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22 01:08:21",
+  "updated_at": "2026-11-22 01:26:27",
   "version": "2.0",
   "total_licenses": 1,
   "licenses": {
@@ -8,12 +8,12 @@
       "owner": "Admin",
       "phone": "017456740185",
       "plan": "1_MONTH",
-      "status": "REVOKED",
-      "revoked": true,
+      "status": "ACTIVE",
+      "revoked": false,
       "issued_at": "2026-11-21",
       "expires_at": "2026-12-21",
       "message": "এই লাইসেন্সটি কেন্দ্রীয়ভাবে স্থগিত/বাতিল করা হয়েছে (License remotely suspended by vendor)."
     }
   },
-  "signature": "1777E1A6D45334EA2F80CB31B9EA3411D8CDA0912CC17E48F4D393CF10607738"
+  "signature": "7188A7BDB1AB44DB1D2D5B1FB4438C162B95E64338118462D797C230589063C9"
 }
